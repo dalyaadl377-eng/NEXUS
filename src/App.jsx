@@ -152,7 +152,6 @@ export default function App() {
                 <h3>{topic.name}</h3>
                 <h4>{topic.subtitle}</h4>
                 <p>{topic.description}</p>
-               
               </article>
             );
           })}
